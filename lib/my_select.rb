@@ -1,4 +1,4 @@
-ef my_select(collection)
+def my_select(collection)
 	i = 0
 	selection = []
 	if collection.length > 0
